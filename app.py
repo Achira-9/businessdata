@@ -1,9 +1,4 @@
-import streamlit as st
-import tensorflow as tf
-from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2, decode_predictions, preprocess_input
-from tensorflow.keras.preprocessing import image
-import numpy as np
-from PIL import Imageimport streamlit as st
+
 import tensorflow as tf
 from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2, decode_predictions, preprocess_input
 from tensorflow.keras.preprocessing import image
